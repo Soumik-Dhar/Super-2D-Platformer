@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Collectibles
+  - Enemies
+  - Coin
+  - BulletPowerUp
+  - Breakable
+  - PlayerHead
+  - Water
+  - Feet
+  - Platform
+  - PlayerStuck
+  - Key
+  - Shining Coin
+  - ShiningCoin
+  - EnemyHead
+  - JumpingFish
+  - LevelOneBoss
+  - PlayerBullet
+  - BossKey
+  - Monster
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Collectibles
+  - Enemies
+  - Players
+  - Fragments
+  - EnemyBullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4183043021
+    locked: 0
+  - name: Foreground
+    uniqueID: 3207417061
+    locked: 0
+  - name: UI
+    uniqueID: 584715151
+    locked: 0
